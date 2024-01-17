@@ -8,7 +8,7 @@ Telamon is an import of a classic mansion map from the game, ROBLOX. Beware, alt
 ![Telamon Image 1](https://i.imgur.com/6p6hQr6.jpg)
 
 <details>
-  <summary>Click to View Images</summary>
+  <summary>Click to View More Images</summary>
 
   ![Telamon Image 2](https://i.imgur.com/WHvdkKL.jpg)
 
