@@ -1,8 +1,9 @@
 # Telamon
 
-Description: Telamon is an import of a classic mansion map from the game, ROBLOX. Beware, although the mansion may appear small on the exterior, it is a vast network of rooms. Those who explore them can end up walking away, but know you are also not the only salvagers... It's advised to play this with friends.
+#### Description:
+Telamon is an import of a classic mansion map from the game, ROBLOX. Beware, although the mansion may appear small on the exterior, it is a vast network of rooms. Those who explore them can end up walking away, but know you are also not the only salvagers... It's advised to play this with friends.
 
-Difficulty: S (Similar to Rend)
+#### Difficulty: S (Similar to Rend)
 
 ![Telamon Image 1](https://i.imgur.com/6p6hQr6.jpg)
 
