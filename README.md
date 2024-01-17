@@ -26,6 +26,10 @@ Telamon is an import of a classic mansion map from the game, ROBLOX. Beware, alt
 - Special credit to Shedletsky/Telamon for the creation of the original map.
 - ROBLOX Studio
 
+## Issues / Feedback
+You can submit issues and feedback to my GitHub repository. You can also pull development builds here if you're up to bugs.
+https://github.com/TofuBytesDEV/TelamonMoon/issues
+
 ## Changelog
 v2.0.3
 Map:
