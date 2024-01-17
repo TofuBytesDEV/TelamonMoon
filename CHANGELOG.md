@@ -1,4 +1,8 @@
 ## Changelog
+v2.0.4
+- No gameplay or map changes
+- Minor changes to the packager to support ThunderStore formatting
+
 v2.0.3
 Map:
 - Added more trees
