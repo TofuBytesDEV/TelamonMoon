@@ -1,4 +1,21 @@
 ## Changelog
+v2.0.5
+Gameplay:
+- Increased scrap count (25-40)
+- Adjusted loot table (Less big bolts and sheet metal)
+- Added Blob to enemies
+- Added Spider to enemies
+- Added Earth Leviathan to enemies
+- Removed Forest Giants (The map is not suitable for them yet, larger map to come...)
+- Balanced enemy spawning similar to Rend
+
+Fix:
+- Fixed steps on the incline to the mansion (You don't suddenly hit a step you have to jump)
+- Fixed enemy waypoints so they aren't camping the ship
+
+Map:
+- Adjusted the description/lore of the planet
+
 v2.0.4
 - No gameplay or map changes
 - Minor changes to the packager to support ThunderStore formatting
