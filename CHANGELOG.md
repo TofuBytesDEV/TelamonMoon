@@ -1,4 +1,7 @@
 ## Changelog
+v2.0.6
+- Fixed typos
+
 v2.0.5
 Gameplay:
 - Increased scrap count (25-40)
