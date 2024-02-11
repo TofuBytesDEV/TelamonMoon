@@ -1,4 +1,10 @@
 ## Changelog
+### v2.2.0
+####
+- Added 3 new scraps! (These can also appear on other moons)
+- Fixed tree clipping through the ship when leaving the moon
+
+
 ### v2.1.0
 #### Map:
 - Larger Map Size
