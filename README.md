@@ -18,6 +18,7 @@ Telamon is an import of a classic mansion map from the game, ROBLOX. Beware, alt
 </details>
 
 ## Features
+- 3 Custom Scraps!
 - Loot Bugs can also be found salvaging!
 - 2 hidden fire exits!
 - Nostalgia!
