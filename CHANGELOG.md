@@ -1,8 +1,18 @@
 ## Changelog
+### v2.2.1
+#### Map:
+- Added 2 shovel type scraps! (Exclusive to Telamon; These will not spawn on other moons)
+
+#### Fix:
+- Previous 3 existing scraps now have a 5 weight chance to spawn on all other moons
+
 ### v2.2.0
-####
-- Added 3 new scraps! (These can also appear on other moons)
+#### Map:
+- Added 3 new scraps!
+
+#### Fix:
 - Fixed tree clipping through the ship when leaving the moon
+- Moved to LethalExpansionCore as the dependency
 
 
 ### v2.1.0
